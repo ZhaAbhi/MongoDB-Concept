@@ -1,0 +1,27 @@
+{
+  "name": "mongodb-concept",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "devStart": "nodemon script.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZhaAbhi/MongoDB-Concept.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ZhaAbhi/MongoDB-Concept/issues"
+  },
+  "homepage": "https://github.com/ZhaAbhi/MongoDB-Concept#readme",
+  "dependencies": {
+    "mongoose": "^7.3.3"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
